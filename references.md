@@ -1,0 +1,44 @@
+# References
+
+1. Michael Stonebreaker \(May 30, 2013\). One Size Fits None - \(Everything You Learned in Your DBMS Class is Wrong\). [http://slideshot.epfl.ch/play/suri\_stonebraker](http://slideshot.epfl.ch/play/suri_stonebraker)
+2. The 451 group \(May 22, 2012\). 451 Research delivers market sizing estimates for NoSQL, NewSQL and MySQL ecosystem. [https://blogs.the451group.com/information\_management/2012/05/22/mysql-nosql-newsql/](https://blogs.the451group.com/information_management/2012/05/22/mysql-nosql-newsql/)
+3. Ivan Glushkov \(Feb 13, 2015\). NewSQL Overview. [http://www.slideshare.net/IvanGlushkov/newsql-overview](http://www.slideshare.net/IvanGlushkov/newsql-overview)
+4. International Organization for Standardization: "ISO/IEC 9075-14:2008"
+5. Apache Pig. [https://pig.apache.org/](https://pig.apache.org/)
+6. Apache HIVE. [https://hive.apache.org/](https://hive.apache.org/)
+7. InfluxDB. [https://influxdata.com/](https://influxdata.com/)
+8. Oracle Database. [https://www.oracle.com/database/index.html](https://www.oracle.com/database/index.html)
+9. Oracle Database PL/SQL. [http://www.oracle.com/technetwork/database/features/plsql/index.html](http://www.oracle.com/technetwork/database/features/plsql/index.html)
+10. PostgreSQL. [http://www.postgresql.org/](http://www.postgresql.org/)
+11. PL/pgSQL – SQL Procedural Language. [http://www.postgresql.org/docs/current/static/plpgsql.html](http://www.postgresql.org/docs/current/static/plpgsql.html)
+12. PL/Python – Python Procedural Language. [http://www.postgresql.org/docs/current/static/plpython.html](http://www.postgresql.org/docs/current/static/plpython.html)
+13. "Brewer's CAP Theorem", julianbrowne.com, Retrieved 02-Mar-2010
+14. DB-Engines. [http://db-engines.com/](http://db-engines.com/)
+15. memcached – a distributed memory object caching system. [https://memcached.org/](https://memcached.org/)
+16. Neo4j: The World’s Leading Graph Database. [http://neo4j.com/](http://neo4j.com/)
+17. Elastic · Revealing Insights from Data \(Formerly Elasticsearch\). [https://www.elastic.co/](https://www.elastic.co/)
+18. Chad Horohoe, Wikimedia Foundation \(January 6, 2014\). Wikimedia moving to Elasticsearch. [http://blog.wikimedia.org/2014/01/06/wikimedia-moving-to-elasticsearch/](http://blog.wikimedia.org/2014/01/06/wikimedia-moving-to-elasticsearch/)
+19. VoltDB: In-Memory Operational Database, SQL and Scale-Out. [https://voltdb.com/](https://voltdb.com/)
+20. MemSQL: The Fastest In-Memory Database. [http://www.memsql.com/](http://www.memsql.com/)
+21. FoundationDB. [https://foundationdb.com/](https://foundationdb.com/)
+22. Matthew Panzarino. Apple Acquires Durable Database Company FoundationDB. [http://techcrunch.com/2015/03/24/apple-acquires-durable-database-company-foundationdb/](http://techcrunch.com/2015/03/24/apple-acquires-durable-database-company-foundationdb/)
+23. Apache Trafodion. [http://trafodion.apache.org/](http://trafodion.apache.org/)
+24. FrontPage\|MonetDB. [https://www.monetdb.org/](https://www.monetdb.org/)
+25. PostgreSQL monitoring template for Zabbix \(pg\_monz\). [http://pg-monz.github.io/pg\_monz/index-en.html](http://pg-monz.github.io/pg_monz/index-en.html)
+26. Open PostgreSQL Monitoring. [http://opm.io/](http://opm.io/)
+27. pgAdmin: PostgreSQL administration and management tools. [http://www.pgadmin.org/](http://www.pgadmin.org/)
+28. PostgreSQL Studio. [http://www.postgresqlstudio.org/](http://www.postgresqlstudio.org/)
+29. PgBouncer - lightweight connection pooler for PostgreSQL. [https://pgbouncer.github.io/](https://pgbouncer.github.io/)
+30. Pgpool Wiki. [http://www.pgpool.net/](http://www.pgpool.net/)
+31. SQL Server 2014 \| Microsoft. [https://www.microsoft.com/zh-tw/server-cloud/products/sql-server/](https://www.microsoft.com/zh-tw/server-cloud/products/sql-server/)
+32. EnterpriseDB \| The Postgres Database Company. [http://www.enterprisedb.com/](http://www.enterprisedb.com/)
+33. CrystalDB Inc. [http://www.crystaldb.com/](http://www.crystaldb.com/)
+34. 深耕工業基礎技術發展. [https://www.moea.gov.tw/MNS/doit/content/Content.aspx?menu\_id=13451](https://www.moea.gov.tw/MNS/doit/content/Content.aspx?menu_id=13451)
+35. iServDB. [http://iservdb.cloudopenlab.org.tw](http://iservdb.cloudopenlab.org.tw)
+36. MongoDB for GIANT Ideas \| MongoDB. [https://www.mongodb.org/](https://www.mongodb.org/)
+37. BlinkDB: Queries with Bounded Errors and Bounded Response Times on Very Large Data. [http://blinkdb.org/](http://blinkdb.org/)
+38. 古永忠、蔡宗融、陳立群. 資料處理裝置及資料處理方法. 中華民國發明第I526966號
+39. Yung-Chung Ku, Jonathan Tsai, Lee Chung Chen. Data processor and a data processing method. U.S. Patent No.: US 9,262,466 B2
+
+
+
