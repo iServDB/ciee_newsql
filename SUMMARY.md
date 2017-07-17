@@ -1,6 +1,6 @@
 # Summary
 
-* [New SQL, New database era](README.md)
+* [README](README.md)
 * [Introduction](introduction.md)
 * [SQL and Relational database](sql-and-relational-database.md)
 * [NoSQL is not only SQL](nosql-is-not-only-sql.md)
