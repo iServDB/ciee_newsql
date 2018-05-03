@@ -1,4 +1,4 @@
-# **SQL and Relational database**
+# SQL and Relational database
 
 首先，必須要把SQL（Structured query language\[4\]）與關聯式資料庫（Relational database）作區分。雖然SQL是由關聯式資料庫的概念衍生而來，但不代表SQL只能應用在關聯式資料庫之上。SQL之意義如同這世界上的各種自然語言，它經歷長時間的考驗與調整，於學理及實用上，都能泛用性地表達各種資料處理的方式。而資料庫系統本身最重要的意義即在於，能以更接近人的方式來面對資料，SQL即是其中一項重要的設計。要創造一個資料處理或程式設計語言不難，但要符合人性並不容易，如同C語言一樣，超過30年的應用歷史已證明一切。
 

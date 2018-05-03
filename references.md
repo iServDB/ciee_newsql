@@ -40,5 +40,3 @@
 38. 古永忠、蔡宗融、陳立群. 資料處理裝置及資料處理方法. 中華民國發明第I526966號
 39. Yung-Chung Ku, Jonathan Tsai, Lee Chung Chen. Data processor and a data processing method. U.S. Patent No.: US 9,262,466 B2
 
-
-
